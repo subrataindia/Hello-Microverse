@@ -6,17 +6,10 @@
 
 ![screenshot](./app_screenshot.png)
 
-Additional description about the project and its features.
-
 ## Built With
 
 - HTML
 - CSS
-
-## Live Demo
-
-[Live Demo Link](https://subratsir.github.com/Hello-Microverse/)
-
 
 ## Learning Objectives
 
